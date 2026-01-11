@@ -3,3 +3,4 @@ function isNormalTemperature(temp) {
 }
 
 module.exports = isNormalTemperature;
+// Файл з функцією для визначення нормальної температури
